@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "timo1-multimedia-app",
+    "timo1-multimedia-app": "timo1-multimedia-app"
+  },
+  "targets": {},
+  "etags": {}
+}
